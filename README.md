@@ -9,7 +9,7 @@ A simple indent div that I use for hierarchical list views.
 Import the components you need in your `<script>` tag:
 
 ```
-  import { Indent } from "braintapper-svelte-indent";
+  import Indent from "braintapper-svelte-indent";
 ```
 
 ### Example Markup
