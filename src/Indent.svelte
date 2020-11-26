@@ -5,7 +5,7 @@
   $: indentation = (level || 0) * width + offset;
 </script>
 <div indent={indentation || 0} style="width: {indentation}px"/>
-<style lang="sass">
+<style>
   div {
     display: block;
     min-height: 1px;
