@@ -19,7 +19,7 @@ Import the components you need in your `<script>` tag:
 ```
 
 
-### Flex Prop Values
+### Props
 
 #### level (integer)
 
