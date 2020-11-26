@@ -1,1 +1,1 @@
-export { Indent as default } from './Indent.svelte';
+export { default as default } from './Indent.svelte';
