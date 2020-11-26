@@ -4,6 +4,9 @@
   "description": "Svelte component for an indent div",
   "author": "braintapper",
   "license": "MIT",  
+  "repository": {
+    "url": "https://github.com/braintapper/braintapper-svelte-indent"
+  },  
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
