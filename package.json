@@ -1,0 +1,28 @@
+{
+  "name": "braintapper-svelte-indent",
+  "version": "0.0.1",
+  "description": "Svelte component for an indent div",
+  "author": "braintapper",
+  "license": "MIT",  
+  "svelte": "src/index.js",
+  "module": "dist/index.mjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "rollup": "^2.0.0",
+    "rollup-plugin-svelte": "^6.0.0",
+    "svelte": "^3.0.0"
+  },
+  "keywords": [
+    "svelte",
+    "indent"
+  ],
+  "files": [
+    "src",
+    "dist"
+  ]
+}
